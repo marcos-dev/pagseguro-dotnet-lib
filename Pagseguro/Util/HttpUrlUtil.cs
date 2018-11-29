@@ -22,6 +22,7 @@ namespace RMC.Pagseguro.Util
 
         }
 
+
         public HttpUrlUtil(string url, List<string> data, List<string> header, HttpWebRequest request, string customRequest)
         {
             Header = header;
