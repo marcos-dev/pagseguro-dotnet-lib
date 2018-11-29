@@ -1,0 +1,9 @@
+D:\Meus documentos\Git\Pagseguro\Pagseguro\bin\Debug\netcoreapp2.0\RMC.Pagseguro.deps.json
+D:\Meus documentos\Git\Pagseguro\Pagseguro\bin\Debug\netcoreapp2.0\RMC.Pagseguro.dll
+D:\Meus documentos\Git\Pagseguro\Pagseguro\bin\Debug\netcoreapp2.0\RMC.Pagseguro.pdb
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.csprojAssemblyReference.cache
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.csproj.CoreCompileInputs.cache
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.AssemblyInfoInputs.cache
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.AssemblyInfo.cs
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.dll
+D:\Meus documentos\Git\Pagseguro\Pagseguro\obj\Debug\netcoreapp2.0\RMC.Pagseguro.pdb

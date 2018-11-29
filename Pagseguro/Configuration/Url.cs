@@ -7,7 +7,7 @@ namespace RMC.Pagseguro.Configuration
     internal static class Url
     {
         /// <summary>
-        /// 
+        /// Get URL
         /// </summary>
         /// <returns></returns>
         public static string GetWs()
@@ -16,7 +16,7 @@ namespace RMC.Pagseguro.Configuration
         }
 
         /// <summary>
-        /// 
+        /// Get Page
         /// </summary>
         /// <returns></returns>
         public static string GetPage()
@@ -25,7 +25,7 @@ namespace RMC.Pagseguro.Configuration
         }
 
         /// <summary>
-        /// 
+        /// Get Sct
         /// </summary>
         /// <returns></returns>
         public static string GetStc()

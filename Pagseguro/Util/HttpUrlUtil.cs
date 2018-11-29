@@ -5,37 +5,80 @@ using System.Text;
 
 namespace RMC.Pagseguro.Util
 {
-    public static class HttpUrlUtil
+    public class HttpUrlUtil
     {
-        internal const string PostMethod = "POST";
-        internal const string GetMethod = "GET";
+        private List<string> Header { get; set; }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="urlPath"></param>
-        /// <param name="query"></param>
-        /// <returns></returns>
-        internal static HttpWebResponse GetHttpPostConnection(string urlPath, string query)
+        private List<string> Data { get; set; }
+
+        private string Url { get; set; }
+
+        private HttpWebRequest Request { get; set; }
+
+        private string CustomRequest { get; set; }
+
+        public HttpUrlUtil()
         {
-            string formUrlEncoded = string.Empty;
-            string encoding = string.Empty;
 
-            string contentType = $"{formUrlEncoded}; charset= {encoding}";
-            return GetURLConnection(PostMethod, contentType, urlPath, query);
+        }
+
+        public HttpUrlUtil(string url, List<string> data, List<string> header, HttpWebRequest request, string customRequest)
+        {
+            Header = header;
+            Data = data;
+            Url = url;
+            Request = request;
+            CustomRequest = customRequest;
+        }
+
+        public void SetUrl()
+        {
+
         }
 
         /// <summary>
-        /// 
+        /// Get Header
         /// </summary>
-        /// <param name="method"></param>
-        /// <param name="contentType"></param>
-        /// <param name="urlPath"></param>
-        /// <param name="query"></param>
         /// <returns></returns>
-        private static HttpWebResponse GetURLConnection(string method, string contentType, string urlPath, string query)
+        public string GetHeader()
         {
-            throw new NotImplementedException();
+            return string.Empty;
+        }
+
+
+        public void SetHeader(List<string> header)
+        {
+
+        }
+
+        public void SetContentType(List<string> data)
+        {
+
+        }
+
+        public void SetAccept(List<string> data)
+        {
+
+        }
+
+        private string DetectDataFormat()
+        {
+            return string.Empty;
+        }
+
+        public void SetData()
+        {
+
+        }
+
+        public void SetCustomRequest()
+        {
+
+        }
+
+        public string Exec()
+        {
+            return string.Empty;
         }
     }
 }
