@@ -32,5 +32,6 @@ namespace RMC.Pagseguro.Configuration
         {
             return Config.IsSandBox() ? "https://stc.sandbox.pagseguro.uol.com.br/" : "https://stc.pagseguro.uol.com.br/";
         }
+
     }
 }

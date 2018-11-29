@@ -45,7 +45,10 @@ namespace RMC.Pagseguro.Util
             return string.Empty;
         }
 
-
+        /// <summary>
+        /// Set Header
+        /// </summary>
+        /// <param name="header"></param>
         public void SetHeader(List<string> header)
         {
 

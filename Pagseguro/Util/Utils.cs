@@ -17,6 +17,7 @@ namespace RMC.Pagseguro.Util
             return Regex.Replace(number, @"[^\d]", "");
         }
 
+
         /// <summary>
         /// Valida o cpf informado
         /// </summary>

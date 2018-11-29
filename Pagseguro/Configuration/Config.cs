@@ -24,6 +24,7 @@ namespace RMC.Pagseguro.Configuration
             return _Email;
         }
 
+
         /// <summary>
         /// 
         /// </summary>

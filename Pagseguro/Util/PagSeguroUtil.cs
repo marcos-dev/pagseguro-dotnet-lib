@@ -23,7 +23,6 @@ namespace RMC.Pagseguro.Util
             HttpUtil = new HttpUrlUtil();
         }
 
-
         /// <summary>
         /// Build URL
         /// </summary>

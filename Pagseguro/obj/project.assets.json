@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Meus documentos\\Git\\Pagseguro\\Pagseguro\\RMC.Pagseguro.csproj",
+      "projectUniqueName": "D:\\Meus documentos\\Git\\RMCPagseguro\\Pagseguro\\RMC.Pagseguro.csproj",
       "projectName": "RMC.Pagseguro",
-      "projectPath": "D:\\Meus documentos\\Git\\Pagseguro\\Pagseguro\\RMC.Pagseguro.csproj",
+      "projectPath": "D:\\Meus documentos\\Git\\RMCPagseguro\\Pagseguro\\RMC.Pagseguro.csproj",
       "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "D:\\Meus documentos\\Git\\Pagseguro\\Pagseguro\\obj\\",
+      "outputPath": "D:\\Meus documentos\\Git\\RMCPagseguro\\Pagseguro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
